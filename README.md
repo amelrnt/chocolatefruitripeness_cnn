@@ -1,3 +1,4 @@
 # chocolatefruitripeness_cnn
 
-last accuracy at ~80%, need more datasets resources to improve 
+UPDATE: 
+model retrain with pre-trained model, last accuracy at 98,69%.
